@@ -1,0 +1,16 @@
+{
+  "personal_details": {
+    "name": "Haripriya Sidda",
+    "label": "",
+    "picture": "",
+    "email": "swathi9620@gmail.com",
+    "phone": "7795221012",
+    "degree": "btech_computer science",
+    "summary": "Full stack developer.",
+    "location": {
+      "address": "Maragondanahalli",
+      "postalCode": "560036",
+      "city": "Bengaluru",
+      "state": "karnataka",
+      "country": "India"
+    },

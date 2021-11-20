@@ -1,0 +1,27 @@
+For loop in JSON
+
+for (let index = 0; index < theArray.length; ++index) {
+    const element = theArray[index];
+    // ...use `element`...
+}
+
+for in LOOP in JSON
+
+for (const propertyName in theArray) {
+    if (/*...is an array element property (see below)...*/) {
+        const element = theArray[propertyName];
+        // ...use `element`...
+    }
+}
+
+for of loop in JSON
+
+for (const element of theArray) {
+    // ...use `element`...
+}
+
+for each loop in JSON
+
+theArray.forEach(element => {
+    // ...use `element`...
+});
